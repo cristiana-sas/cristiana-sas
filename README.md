@@ -31,11 +31,12 @@ I enjoy turning raw data into clear, insightful, and interactive visualizations.
 ![DAX](https://img.shields.io/badge/DAX-4479A1?style=for-the-badge)
 ![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
-### 🛠️ Other Tools
-
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### 🎨 Design & Visualization
+
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
