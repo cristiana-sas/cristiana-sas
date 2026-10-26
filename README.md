@@ -19,7 +19,7 @@ I enjoy turning raw data into clear, insightful, and interactive visualizations.
 
 ## 🌐 Let's connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/-cristiana-santos/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-cristiana-santos/)
 
 ---
 
